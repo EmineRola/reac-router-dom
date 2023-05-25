@@ -1,0 +1,85 @@
+
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Suç ve Ceza",
+      "author": "Dostoyevski",
+      "image": "https://cdn.bkmkitap.com/suc-ve-ceza-483000-12817765-48-B.jpg",
+      "year": 1866,
+      "description": "Suç ve Ceza, Raskolnikov isimli yoksul bir öğrencinin, bir tefeciyi öldürme planını ve sonrasında yaşadığı vicdan azabını anlatan bir roman. Dostoyevski'nin başyapıtlarından biri olarak kabul edilir."
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "image": "https://cdn.bkmkitap.com/1984-524918-11265709-52-B.jpg",
+      "year": 1949,
+      "description": "1984, distopik bir gelecekte geçen ve totaliter bir devletin birey üzerindeki baskısını konu alan bir roman. Orwell'in en ünlü eserleri arasında yer alır."
+    },
+    {
+      "id": 3,
+      "title": "Sefiller",
+      "author": "Victor Hugo",
+      "image": "https://cdn.bkmkitap.com/sefiller-koridor-yayincilik-11294917-35-B.jpg",
+      "year": 1862,
+      "description": "Sefiller, Fransız Devrimi döneminde geçen ve yoksul bir adamın hayat mücadelesini anlatan bir roman. Victor Hugo'nun en ünlü eserleri arasında yer alır."
+    },
+    {
+      "id": 4,
+      "title": "İçimizdeki Şeytan",
+      "author": "Sabahattin Ali",
+      "image": "https://cdn.bkmkitap.com/icimizdeki-seytan-11600402-29-B.jpg",
+      "year": 1940,
+      "description": "İçimizdeki Şeytan, bir yazarın ve aynı zamanda bir avukatın hayatını konu alan bir roman. Sabahattin Ali'nin en önemli eserleri arasında yer alır."
+    },
+    {
+      "id": 5,
+      "title": "Anna Karenina",
+      "author": "Lev Tolstoy",
+      "image": "https://cdn.bkmkitap.com/anna-karenina-301646-11345951-30-B.jpg",
+      "year": 1877,
+      "description": "Anna Karenina, Rusya aristokrasisi içinde geçen, Tolstoy'un en ünlü eserlerinden biridir. Roman, yasak aşklar, toplumsal normlar ve kişisel arayışlar hakkında derin bir incelme sunar. Ana karakter Anna Karenina, evli bir kadın olarak başka bir adamla aşk yaşaması sonucunda toplumda dışlanır ve trajik bir sonla karşı karşıya kalır. Bu eser, Tolstoy'un ustalıkla yazdığı karakterleri ve doğayı betimlemesiyle tanınır."
+    },
+    {
+      "id": 6,
+      "title": "Kürk Mantolu Madonna",
+      "author": "Sabahattin Ali",
+      "image": "https://cdn.bkmkitap.com/kurk-mantolu-madonna-11533164-38-B.jpg",
+      "year": 1943,
+      "description": "Kürk Mantolu Madonna, bir öğretmenin hayatını ve aşkını anlatan bir romandır. Sabahattin Ali'nin en ünlü eserleri arasında yer almaktadır."
+    },
+    {
+      "id": 7,
+      "title": "Dönüşüm",
+      "author": "Franz Kafka",
+      "image": "https://cdn.bkmkitap.com/donusum-is-bankasi-kultur-yayinlari-11544054-57-B.png",
+      "year": 1915,
+      "description": "Dönüşüm, bir sabah kendini dev bir böceğe dönüşmüş olarak bulan Gregor Samsa'nın hikayesini anlatan bir romandır. Franz Kafka'nın en ünlü eserleri arasında yer almaktadır."
+    },
+    {
+      "id": 8,
+      "title": "Yüzyıllık Yalnızlık",
+      "author": "Gabriel Garcia Marquez",
+      "image": "https://cdn.bkmkitap.com/yuzyillik-yalnizlik-13228938-79-B.jpg",
+      "year": 1967,
+      "description": "Yüzyıllık Yalnızlık, bir ailenin 7 nesil boyunca yaşadıklarını konu alan epik bir romandır. Gabriel Garcia Marquez'in en ünlü eserleri arasında yer almaktadır."
+    },
+    {
+      "id": 9,
+      "title": "Simyacı",
+      "author": "Paulo Coelho",
+      "image": "https://cdn.bkmkitap.com/simyaci-13246601-79-B.jpg",
+      "year": 1988,
+      "description": "Simyacı, bir çobanın kişisel yolculuğunu ve kaderini keşfetme arayışını anlatan bir roman. Paulo Coelho'nun en ünlü eserleri arasında yer almaktadır."
+    },
+    {
+      "id": 10,
+      "title": "Ölü Canlar",
+      "author": "Nikolay Gogol",
+      "image": "https://cdn.bkmkitap.com/olu-canlar-788969-13242464-78-B.jpg",
+      "year": 1842,
+      "description": "Ölü Canlar, Rusya'nın çiftlik toplumu ve rüşvet gibi konularını ele alan bir roman. Nikolay Gogol'un en ünlü eserleri arasında yer almaktadır."
+    }
+  ]
+}
